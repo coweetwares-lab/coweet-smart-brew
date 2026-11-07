@@ -2,6 +2,8 @@
 
 Official firmware for **Coweet Smart Brew**.
 
-Open **Settings → Firmware Update** on the device web UI. When a newer version is available, you will see what’s new and can update from there. You can also download a `.bin` from [Releases](../../releases) and use **Manual Upload**.
+Download a `.bin` from [Releases](../../releases), then open **Settings → Firmware Update** on the device web UI and upload it. The device page does not check for or download updates.
+
+**Shipped out before November 7, 2026?** Due to firmware version limits, please email services@coweetwares.com to request your firmware file instead.
 
 Use only firmware from this repository. Keep the device powered during an update.
